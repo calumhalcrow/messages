@@ -1,0 +1,4 @@
+Basic message receiving app, to help me learn Tornadi?o/Socket.io/RabbitMQ
+
+Many thanks to the transport example in tornadio's repo:
+https://github.com/MrJoes/tornadio.git
